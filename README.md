@@ -1,5 +1,5 @@
 # Py
 
 #Python калькулятор
-![Python](./image/python)
+![Python](./image/python.png)
 Простой калькулятор на Python.
