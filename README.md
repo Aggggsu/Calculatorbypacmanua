@@ -40,3 +40,6 @@ else:
 input()
 ```
 
+# Новые версии 
+
+<a href="https://github.com/Aggggsu/-v1.2/tree/main/%D0%9A%D0%BE%D0%B4">тут</a>
