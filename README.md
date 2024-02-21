@@ -7,39 +7,18 @@
 
 ![Python](https://github.com/Aggggsu/-v1.2/blob/main/image/Python.png)
 
-Простой калькулятор на Python.
+Простий Калькулятор на Python.
 
 # Установка 
 
-1.`git clone https://github.com/Aggggsu/-v1.2`
+1.`git clone https://github.com/Aggggsu/Calculatorbypacmanua`
 
-2.Дальше просто открываем файл exe.
+2. Відкривайте файл з .py або .exe якщо у вас Windows.
 
-# Код
+# Версія Зараз:
 
-```python
-what = input ( "Что делаем? (+,-): " )
+v1.50RC _Release Candidate_ 
 
-a = float( input ("Напишите первое число: ") )
-b = float( input (" Напишете второе число: ") )
+Що нового: Нові команди, добавлена українська та англійська, 
+Нові функції - множення і ділення. 
 
-if what == "+":
-    c = a + b
-    print( Back.GREEN )
-    print( Fore.BLACK )
-    print ("РЕЗУЛЬТАТ: " + str(c))
-elif what == "-":
-    c = a - b
-    print( Back.GREEN )
-    print( Fore.BLACK )
-    print ("РЕЗУЛЬТАТ: " + str(c))
-
-else:
-    print ("ERROR!")
-
-input()
-```
-
-# Новые версии 
-
-<a href="https://github.com/Aggggsu/-v1.2/tree/main/%D0%9A%D0%BE%D0%B4">тут</a>
