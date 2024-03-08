@@ -5,7 +5,7 @@
 ![py](https://img.shields.io/github/stars/Aggggsu/-v1.2?style=social)
 
 
-![Python](https://github.com/Aggggsu/-v1.2/blob/main/image/Python.png)
+![Python](https://github.com/Aggggsu/Calculatorbypacmanua/blob/main/image/Screenshot_20240308_141815_Pydroid%203.jpg)
 
 Простий Калькулятор на Python.
 
